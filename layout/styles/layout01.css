@@ -1,2 +1,5 @@
 .contact:hover {width:500;height:100} 
 .retitle {color: bisque}
+/* @media(max-width:400px){
+    #header {position: fixed }
+    ;} */
